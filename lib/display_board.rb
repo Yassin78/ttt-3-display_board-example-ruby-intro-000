@@ -6,3 +6,4 @@ def display_board
     puts dash
   end
 puts blocks
+end
